@@ -1,0 +1,1 @@
+document.getElementById("loginForm").addEventListener("submit", loginValidation, false);

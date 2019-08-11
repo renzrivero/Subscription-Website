@@ -1,0 +1,4 @@
+URL : https://riveror.ursse.org/index.php
+
+Admin username : admin
+Admin password : supersecureadminpassword1

@@ -1,0 +1,1 @@
+document.getElementById("signupForm").addEventListener("submit", signupValidation, false);
